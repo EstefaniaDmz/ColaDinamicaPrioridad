@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\ColaDinamicaPrioridad\ColaDinamicaPrioridad\bin\Debug\ColaDinamicaPrioridad.exe.config
+C:\Users\andre\source\repos\ColaDinamicaPrioridad\ColaDinamicaPrioridad\bin\Debug\ColaDinamicaPrioridad.exe
+C:\Users\andre\source\repos\ColaDinamicaPrioridad\ColaDinamicaPrioridad\bin\Debug\ColaDinamicaPrioridad.pdb
+C:\Users\andre\source\repos\ColaDinamicaPrioridad\ColaDinamicaPrioridad\obj\Debug\ColaDinamicaPrioridad.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\ColaDinamicaPrioridad\ColaDinamicaPrioridad\obj\Debug\ColaDinamicaPrioridad.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\ColaDinamicaPrioridad\ColaDinamicaPrioridad\obj\Debug\ColaDinamicaPrioridad.Form1.resources
+C:\Users\andre\source\repos\ColaDinamicaPrioridad\ColaDinamicaPrioridad\obj\Debug\ColaDinamicaPrioridad.Properties.Resources.resources
+C:\Users\andre\source\repos\ColaDinamicaPrioridad\ColaDinamicaPrioridad\obj\Debug\ColaDinamicaPrioridad.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\ColaDinamicaPrioridad\ColaDinamicaPrioridad\obj\Debug\ColaDinamicaPrioridad.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\ColaDinamicaPrioridad\ColaDinamicaPrioridad\obj\Debug\ColaDinamicaPrioridad.exe
+C:\Users\andre\source\repos\ColaDinamicaPrioridad\ColaDinamicaPrioridad\obj\Debug\ColaDinamicaPrioridad.pdb
